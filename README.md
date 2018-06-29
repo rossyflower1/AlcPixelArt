@@ -1,6 +1,6 @@
 My ALCwithGoogle Project
 Google Africa Challenge Scholarship
-The Project: Pixel Art Maker
+My project link https://rossyflower1.github.io/AlcPixelArt/
 Development Strategy
 Before I write any code, I loaded up index.html from the starter project to see how things look! I noticed that the design.js file was implemented in the <body> tag in the index.html file. My goal was to build out the design.js file to achieve all the interactive elements on the page!
 Now, I open up design.js. As I started writing my code, I kept these three tasks in mind:
